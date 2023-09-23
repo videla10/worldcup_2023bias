@@ -1,1 +1,1 @@
-# worldcup_2023bias
+# World Cup Player Analysis for Catching Media Bias
