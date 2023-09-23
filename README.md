@@ -1,1 +1,3 @@
 # World Cup Player Analysis for Catching Media Bias
+
+This was my semester project for Intro to Data Science taken at Colorado School of Mines. I used a kaggle dataset to try and compare players purely based off of statistics. Many journalists and sports companies make their list of best players at each tournament and there is almost always bias in their decisions. My goal was to try and find players that have been overlooked because they weren't as popular going into the World Cup or because their countries aren't one of the big names in soccer. I found that there were a lot of players overlooked and this can be shown in their market value and their lack of recognition by mainstream media. 
