@@ -12,7 +12,7 @@ There is a video that was my submission for my final project in the class which 
 Here is the link: https://youtu.be/OUqhSzRGmMY
 
 # Code 
-The code for this project is in python and I used Jupyter Notebooks throughout the course so I was very comfortable using it in this project. Libraries used include pandas and matplotlib and there was also use of SQL. 
+The file Semester project.ipynb in this repository contains the code for this project.The code for this project is in python and I used Jupyter Notebooks throughout the course so I was very comfortable using it in this project. Libraries used include pandas and matplotlib and there was also use of SQL. 
 
 One day I'd like to revisit this and try and achieve the same goal with some more advanced skills (Possibly AI or machine learning) and add different types of visualization.
 
